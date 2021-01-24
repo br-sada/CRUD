@@ -1,5 +1,5 @@
 # Crud
-Projeto painel de login e crud feito em JavaScript, jquery, HTML5, CSS, bootstrap, PHP e mysql.(Servidor PHP local Xampp).
+Projeto painel de login e crud feito em JavaScript, jquery, HTML5, CSS, PHP e mysql conexão PDO.(Servidor PHP local Xampp).
 
 # Inicio
 Crie uma pasta chamada "crud" dentro de htdocs no servidor local xampp e coloque os arquivos do repositorio para dentro desta nova pasta.
